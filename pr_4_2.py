@@ -1,4 +1,4 @@
-  
+  #Методы кластеризации
 import numpy as np
 from sklearn.cluster import MeanShift
 import matplotlib.pyplot as plt
